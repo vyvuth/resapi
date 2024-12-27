@@ -1,0 +1,64 @@
+{
+  "fruit": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "price": 1.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXlyOz73-hm7f4isigWZHoYB-8Y8Po-kBCw&s"
+    },
+    {
+      "id": "2",
+      "name": "Banana",
+      "price": 0.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd"
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "price": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjUH4HMpbPoIUrxaVuGvguHfR3sarqvyjVA&s"
+    },
+    {
+      "id": 4,
+      "name": "Pineapple",
+      "price": 2.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0BAWMjPnLyfqz_vIXH5G4JOyEqfe2uA18A&s"
+    },
+    {
+      "id": 5,
+      "name": "Water melon",
+      "price": 2.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJWJNCC2IduenHNacpBfwStJa51MRypN496A&s"
+    },
+    {
+      "id": 6,
+      "name": "Pear",
+      "price": 1.5,
+      "image": "https://images.healthshots.com/healthshots/en/uploads/2022/12/16102013/pear-for-skincare-1600x900.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Grape",
+      "price": 3.5,
+      "image": "https://thegreenurbanlunchbox.com/wp-content/uploads/2020/07/grape-fruits-708777-768x512.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Strawberry",
+      "price": 5.25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNMJnx2NfFhYLvHVgNDpFPlDCVrKZJzj4PQ&s"
+    },
+    {
+      "id": 9,
+      "name": "Blue berry",
+      "price": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjaMh6C4iTtqfGGeqdT2PZ3bI8A4hJ_qGVOg&s"
+    },
+    {
+      "id": 10,
+      "name": "Cherry",
+      "price": 10.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Zy6OwKK10wdgC04VyZCZwsljcAiVaOIJlA&s"
+    }
+  ]
+}
